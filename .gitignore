@@ -6,6 +6,3 @@ Makefile*
 build*
 *.so
 *.a
-*.cmake
-*parameters
-*moc
